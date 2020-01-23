@@ -1,0 +1,7 @@
+{
+  "name": "malrnooedyj.anuglar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
